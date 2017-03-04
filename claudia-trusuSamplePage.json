@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "trusuSamplePage_bot-executor",
+    "name": "trusuSamplePage_bot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "05vrxcjhxh",
+    "module": "bot"
+  }
+}
